@@ -2,7 +2,7 @@
 <form action="" method="post">
     <div class="form-group">
       <label for="firstName">Prénom</label>
-      <input type="text" name="firstName">
+      <input type="text" name="firstName" class="form-control">
     </div>
     <div class="form-group">
       <label for="name">Nom</label>
