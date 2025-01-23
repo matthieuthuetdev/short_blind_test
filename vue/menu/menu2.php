@@ -6,7 +6,7 @@
       <div class="collapse navbar-collapse bg-dark" id="navbarNavAltMarkup">
         <div class="navbar-nav ">
           <a class="nav-item nav-link text-white active " href="index.php?p=home">Accueil </a>
-          <a class="nav-item nav-link text-white active " href="index.php?p=home">Extrait du jour</a>
+          <a class="nav-item nav-link text-white active " href="index.php?p=audioDay">Extrait du jour</a>
           <a class="nav-item nav-link text-white " href="index.php?p=">Classement</a>
           <a class="nav-item nav-link text-white " href="index.php?p=myAccount">Mon compt</a>
           <a class="nav-item nav-link text-white " href="index.php?p=signOut">Se déconnecter</a>
