@@ -1,0 +1,12 @@
+fieldset {
+  background-color: gainsboro;
+  border-radius: 10%;
+  max-width: 30%;
+}
+label {
+  display: block;
+}
+.inputinfo {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
